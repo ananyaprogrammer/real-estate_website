@@ -71,39 +71,5 @@ npm run dev
 ## 👩‍💻 Author
 
 Ananya Agarwal
-# MongoStore 🛒
 
-A modern e-commerce UI built using **Next.js**, **MongoDB**, and
-**TailwindCSS**.
 
-## 🖼 Preview
-
-Below is a screenshot of the homepage:
-
-![MongoStore Preview](mongostore-preview.png)
-
-## 📌 Features
-
--   Clean and modern UI\
--   Product categories\
--   Search bar functionality\
--   Optimized product display layout\
--   React‑based components
-
-## 🚀 How to Run This Project
-
-``` bash
-npm install
-npm run dev
-```
-
-## 📁 Project Structure
-
-    /components
-    /pages
-    /public
-    /styles
-
-## 👩‍💻 Author
-
-Ananya Agarwal
